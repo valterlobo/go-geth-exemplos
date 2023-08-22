@@ -3,6 +3,12 @@
 ### O que é Go Ethereum (Geth) 
 Go Ethereum (Geth) é o principal cliente Ethereum de código aberto para a plataforma de blockchain Ethereum.É escrito em Go e está disponível para Windows, macOS e Linux.
 
+### O que é possibilita:
+
+🔗 Integração de DApps
+💱 Transações seguras
+🔄 Contratos inteligentes poderosos
+
 ### Como instalar o Geth (Linux)
 
  ```
