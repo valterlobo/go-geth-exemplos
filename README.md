@@ -66,6 +66,7 @@ go run main.go
 
 ### Ethereum Development with Go
 <https://goethereumbook.org/ethereum-development-with-go.pdf>
+<https://goethereumbook.org/en/>
 
 ### Installing Geth ( install tools)
 <https://geth.ethereum.org/docs/getting-started/installing-geth>
