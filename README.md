@@ -79,3 +79,6 @@ go run main.go
 
 ### A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go
 <https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78>
+
+### Um Guia Prático para Interação de Contrato Inteligente com Go Ethereum (Geth) 
+https://dev.to/valterlobo/um-guia-pratico-para-interacao-de-contrato-inteligente-com-go-ethereum-geth-5dag-temp-slug-5684316?preview=9440179aa387b4c90dac94bb9b54d979edda829ed98bf9b50bd1d0c097d952943c2ea05366690d361d9abec3352d145f637b1d4907821b41fd01b19d
